@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             tools:context=".FragmentSobre">
+
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="242dp"
+            android:text="Ut porta mi vel tincidunt tincidunt. Sed ut elementum sem. Morbi quis euismod erat. In maximus velit eros, ut interdum ipsum ultricies sit amet. Proin a aliquet augue. Fusce suscipit, magna vitae luctus lobortis, urna urna vehicula leo, at luctus ex justo vel nisl. Suspendisse ac ante vitae dolor accumsan tincidunt. Praesent dolor lacus, sagittis ut tempus in, eleifend sed tellus. Duis sit amet tristique mi. Sed in condimentum nunc."
+            android:textSize="13dp"
+            android:background="#FFFFFF"
+            android:padding="20dp"/>
+
+</FrameLayout>
