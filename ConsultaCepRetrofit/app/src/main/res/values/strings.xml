@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ConsultaCepRetrofit</string>
+    <string name="edtHintCEP">Digite seu cep...</string>
+</resources>
