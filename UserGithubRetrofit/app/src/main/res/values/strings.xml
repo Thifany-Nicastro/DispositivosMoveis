@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UserGithubRetrofit</string>
+    <string name="edtHintGithub">Digite seu usuário...</string>
+</resources>
